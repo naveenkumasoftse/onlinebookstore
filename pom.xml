@@ -51,12 +51,7 @@
 		</plugins>
 	</build>
 	
-     <properties>
-        <sonar.host.url>http://54.169.232.111:49155/</sonar.host.url>
-        <sonar.login>admin</sonar.login>
-        <sonar.password>admin1</sonar.password>
-    </properties>
-	
+
 	<dependencies>
 				
 
